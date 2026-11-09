@@ -29,7 +29,7 @@ Posts are stored in memory for this version, so no database is required — cont
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/gadesh-blog.git
+   git clone https://github.com/gadeshx/gadesh-blog.git
    cd gadesh-blog
    ```
 
